@@ -23,5 +23,5 @@ def rollDice(rolls, sides):
         count += 1
 
         
-rollDice(3, 6)
+
 
